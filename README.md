@@ -62,6 +62,6 @@ Hi! I'm **Lady**, a passionate software developer constantly learning and growin
 <div style="width:100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; background-color: #f6f8fa; text-align: center; margin-top: 20px;">
 
 ### My Coding Activity  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=luzylay&theme=react-dark&hide_border=true&area=true)
+<img width="100%" src="https://raw.githubusercontent.com/luzylay/luzylay/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions">
 
 </div>
