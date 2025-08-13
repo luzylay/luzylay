@@ -35,23 +35,21 @@ Hi! I'm **Lady**, a passionate software developer constantly learning and growin
 ---
 
 ## 📊 GitHub Stats  
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
-    <!-- Columna 1 -->
+    <!-- Columna Izquierda -->
     <td style="width:50%; vertical-align: top; padding: 5px;">
-      <!-- Fila 1 -->
-      <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; background-color: #f6f8fa; margin-bottom: 10px; height: 195px;">
-        ![Stats](https://github-readme-stats.vercel.app/api?username=luzylay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+      <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px; background-color: #f6f8fa; margin-bottom: 10px; height: 195px; overflow: hidden;">
+        <img src="https://github-readme-stats.vercel.app/api?username=luzylay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
-      <!-- Fila 2 -->
-      <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; background-color: #f6f8fa; height: 195px;">
-        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luzylay&layout=compact&theme=radical&hide_border=true)
+      <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px; background-color: #f6f8fa; height: 195px; overflow: hidden;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzylay&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
     </td>
-    <!-- Columna 2 -->
+    <!-- Columna Derecha -->
     <td style="width:50%; vertical-align: top; padding: 5px;">
-      <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; background-color: #f6f8fa; height: 410px;">
-        ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=luzylay&theme=radical&hide_border=true)
+      <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px; background-color: #f6f8fa; height: 410px; overflow: hidden;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=luzylay&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
     </td>
   </tr>
