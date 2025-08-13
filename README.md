@@ -57,7 +57,6 @@ A passionate software developer student (UTP) constantly learning and growing. I
 
 </div>
 
----
 
 ## 📊 GitHub Stats  
 <table style="width:100%; border-collapse: collapse; table-layout: fixed;">
@@ -80,8 +79,6 @@ A passionate software developer student (UTP) constantly learning and growing. I
   </tr>
 </table>
 
----
-
 ## 🌈 Contribution Graph  
 <div style="width:100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; background-color: #f6f8fa; text-align: center; margin-top: 20px;">
 
@@ -91,6 +88,7 @@ A passionate software developer student (UTP) constantly learning and growing. I
 </div>
 
 <div>
+---
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luzylay.luzylay)](https://github.com/luzylay)
 
