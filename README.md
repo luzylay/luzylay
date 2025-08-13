@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, I'm Lady! 👋  
-### Software Engineering Student (7th Semester - UTP)  
+### Software Engineering Student (UTP)  
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luzylay.luzylay)](https://github.com/luzylay)
 
 </div>
