@@ -17,38 +17,46 @@ Hi! I'm **Lady**, a passionate software developer constantly learning and growin
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; background: #f6f8fa;">
-      <h3 style="margin-top: 0;">💡 My Strengths</h3>
-      <ul style="padding-left: 20px;">
-        <li>Reliable team player</li>
-        <li>Problem solver</li>
-        <li>Process optimization</li>
-      </ul>
+    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; text-align: center; background: #f6f8fa; height: 200px;">
+      <div style="display: inline-block; text-align: left;">
+        <h3 style="margin-top: 0; text-align: center;">💡 My Strengths</h3>
+        <ul style="padding-left: 20px; margin-top: 10px; margin-bottom: 0;">
+          <li>Reliable team player</li>
+          <li>Problem solver</li>
+          <li>Process optimization</li>
+        </ul>
+      </div>
     </td>
-    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; background: #f6f8fa;">
-      <h3 style="margin-top: 0;">🚀 I Enjoy</h3>
-      <ul style="padding-left: 20px;">
-        <li>Analyzing complex problems</li>
-        <li>Improving workflows</li>
-        <li>Contributing to team goals</li>
-      </ul>
+    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; text-align: center; background: #f6f8fa; height: 200px;">
+      <div style="display: inline-block; text-align: left;">
+        <h3 style="margin-top: 0; text-align: center;">🚀 I Enjoy</h3>
+        <ul style="padding-left: 20px; margin-top: 10px; margin-bottom: 0;">
+          <li>Analyzing complex problems</li>
+          <li>Improving workflows</li>
+          <li>Contributing to team goals</li>
+        </ul>
+      </div>
     </td>
   </tr>
   <tr>
-    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; background: #ffffff;">
-      <h3 style="margin-top: 0;">🔍 Currently Learning</h3>
-      <ul style="padding-left: 20px;">
-        <li>Data Science</li>
-        <li>Frontend</li>
-        <li>Backend</li>
-      </ul>
+    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; text-align: center; background: #ffffff; height: 200px;">
+      <div style="display: inline-block; text-align: left;">
+        <h3 style="margin-top: 0; text-align: center;">🔍 Currently Learning</h3>
+        <ul style="padding-left: 20px; margin-top: 10px; margin-bottom: 0;">
+          <li>Data Science</li>
+          <li>Frontend</li>
+          <li>Backend</li>
+        </ul>
+      </div>
     </td>
-    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; background: #ffffff;">
-      <h3 style="margin-top: 0;">✨ My Goal</h3>
-      <p style="margin-bottom: 0;">To grow in an environment that values clean code, collaboration, and continuous learning.</p>
+    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; text-align: center; background: #ffffff; height: 200px;">
+      <div style="display: inline-block; text-align: center; max-width: 80%;">
+        <h3 style="margin-top: 0;">✨ My Goal</h3>
+        <p style="margin-top: 10px; margin-bottom: 0;">To grow in an environment that values clean code, collaboration, and continuous learning.</p>
+      </div>
     </td>
   </tr>
-</table> 
+</table>
 
 </div>
 
