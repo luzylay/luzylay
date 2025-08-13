@@ -87,8 +87,9 @@ A passionate software developer student (UTP) constantly learning and growing. I
 
 </div>
 
-<div>
 ---
+
+<div>
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luzylay.luzylay)](https://github.com/luzylay)
 
