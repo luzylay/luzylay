@@ -1,15 +1,12 @@
 <div align="center">
   
 # Hi, I'm Lady! 👋  
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luzylay.luzylay)](https://github.com/luzylay)
-
-</div>
 
 ---
 ## 🌟 About Me  
 <div style="width:100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; background-color: #f6f8fa; margin: 10px 0;">
 
-A passionate software developer Student (UTP) constantly learning and growing. I focus on strengthening my skills in:  
+A passionate software developer student (UTP) constantly learning and growing. I focus on strengthening my skills in:  
 - Programming 
 - Databases
 - Agile methodologies
@@ -90,4 +87,7 @@ A passionate software developer Student (UTP) constantly learning and growing. I
 ### My Coding Activity  
 <img width="100%" src="https://raw.githubusercontent.com/luzylay/luzylay/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions">
 
+</div>
+</div>
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luzylay.luzylay)](https://github.com/luzylay)
 </div>
