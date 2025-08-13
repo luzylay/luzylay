@@ -3,6 +3,7 @@
 # Hi, I'm Lady! 👋  
 ### Software Engineering Student (7th Semester - UTP)  
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luzylay.luzylay)](https://github.com/luzylay)
+
 </div>
 
 ---
@@ -52,7 +53,6 @@ Hi! I'm **Lady**, a passionate software developer constantly learning and growin
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzylay&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;">
       </div>
     </td>
-    
   </tr>
 </table>
 
@@ -62,6 +62,6 @@ Hi! I'm **Lady**, a passionate software developer constantly learning and growin
 <div style="width:100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; background-color: #f6f8fa; text-align: center; margin-top: 20px;">
 
 ### My Coding Activity  
-<img width="100%" src="https://raw.githubusercontent.com/luzylay/luzylay/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions">
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=luzylay&theme=react-dark&hide_border=true&area=true)
 
 </div>
