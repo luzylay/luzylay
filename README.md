@@ -11,25 +11,44 @@
 <div style="width:100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; background-color: #f6f8fa; margin: 10px 0;">
 
 Hi! I'm **Lady**, a passionate software developer constantly learning and growing. I focus on strengthening my skills in:  
-- **Programming**  
-- **Databases** 
-- **Agile methodologies** 
+- Programming 
+- Databases
+- Agile methodologies
 
-💡 **My strengths**:  
-✔ Reliable team player  
-✔ Problem solver  
-✔ Process optimization  
-
-🚀 **I enjoy**:  
-• Analyzing complex problems  
-• Improving workflows  
-• Contributing to team goals  
-
-🔍 **Currently learning**:  
-◉ Cloud computing fundamentals  
-◉ Advanced JavaScript frameworks  
-
-✨ **My goal**: To grow in an environment that values clean code, collaboration, and continuous learning.  
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; background: #f6f8fa;">
+      <h3 style="margin-top: 0;">💡 My Strengths</h3>
+      <ul style="padding-left: 20px;">
+        <li>Reliable team player</li>
+        <li>Problem solver</li>
+        <li>Process optimization</li>
+      </ul>
+    </td>
+    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; background: #f6f8fa;">
+      <h3 style="margin-top: 0;">🚀 I Enjoy</h3>
+      <ul style="padding-left: 20px;">
+        <li>Analyzing complex problems</li>
+        <li>Improving workflows</li>
+        <li>Contributing to team goals</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; background: #ffffff;">
+      <h3 style="margin-top: 0;">🔍 Currently Learning</h3>
+      <ul style="padding-left: 20px;">
+        <li>Data Science</li>
+        <li>Frontend</li>
+        <li>Backend</li>
+      </ul>
+    </td>
+    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; background: #ffffff;">
+      <h3 style="margin-top: 0;">✨ My Goal</h3>
+      <p style="margin-bottom: 0;">To grow in an environment that values clean code, collaboration, and continuous learning.</p>
+    </td>
+  </tr>
+</table> 
 
 </div>
 
