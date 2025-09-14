@@ -1,13 +1,4 @@
-<div align="center">
-
-# Hi, I'm Lady! 👋 
-
-</div>
-
-## 🌟 About Me  
-<div style="width:100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; background-color: #f6f8fa; margin: 10px 0;">
-
-A passionate software developer student (UTP) constantly learning and growing. I focus on strengthening my skills in:  
+Hi, I'm Lady! 👋 A passionate software developer student (UTP) constantly learning and growing. I focus on strengthening my skills in:  
 - Programming 
 - Databases
 - Agile methodologies
