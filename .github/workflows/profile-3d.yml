@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    # Ejecutar diariamente a las 00:00 (medianoche) hora de Lima (UTC-5) == 05:00 UTC
+    # Se ejecuta todos los días a la medianoche hora Lima (05:00 UTC)
     - cron: "0 5 * * *"
   workflow_dispatch:
 
@@ -15,10 +15,39 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+
+      # 1. Gráfico de contribuciones en 3D
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      # 2. Tarjetas detalladas de actividad (Commits, PRs, issues, reviews, repos)
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+      # 3. Tarjeta general de estadísticas (Guardada localmente)
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true&include_all_commits=true
+          path: profile-summary-card-output/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4. Tarjeta de lenguajes más usados (Guardada localmente)
+      - name: Generate top-langs card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=radical&hide_border=true
+          path: profile-summary-card-output/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 5. Guardar y subir todos los cambios al repositorio
       - name: Commit & Push
         run: |
           git config user.name github-actions
