@@ -13,11 +13,8 @@
 <b>TECH STACK</b> : Python | SQL | PostgreSQL | Power BI
 <b>SHELL</b>      : bash (Pandas | SQLAlchemy | psycopg2 | openpyxl)
 <b>CONTACT</b>    : <a href="mailto:U22221489@utp.edu.pe" style="color: #58a6ff; text-decoration: none;">U22221489@utp.edu.pe</a>
-<b>LINKEDIN</b>   : <a href="https://linkedin.com/in/lady-loayza-rodriguez" target="_blank" style="color: #58a6ff; text-decoration: none;">linkedin.com/in/lady-loayza-rodriguez</a>
-  </pre>
+<b>LINKEDIN</b>   : <a href="https://linkedin.com/in/lady-loayza-rodriguez" target="_blank" style="color: #58a6ff; text-decoration: none;">linkedin.com/in/lady-loayza-rodriguez</a></pre>
 </div>
-
-
 
 ### 📊 GitHub Stats & Streaks
 
