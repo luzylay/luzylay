@@ -1,87 +1,48 @@
-Hi, I'm Lady! 👋 A passionate software developer student (UTP) constantly learning and growing. I focus on strengthening my skills in:  
-- Programming 
-- Databases
-- Agile methodologies
+# 💻 Lady Loayza Rodriguez
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student+%40UTP;Data+Engineer+%26+BI+Specialist;Building+Scalable+ETL+Pipelines" alt="Typing SVG" />
+</p>
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; text-align: center; background: #f6f8fa; height: 200px;">
-      <div style="display: inline-block; text-align: left;">
-        <h3 style="margin-top: 0; text-align: center;">💡 My Strengths</h3>
-        <ul style="padding-left: 20px; margin-top: 10px; margin-bottom: 0;">
-          <li>Reliable team player</li>
-          <li>Problem solver</li>
-          <li>Process optimization</li>
-        </ul>
-      </div>
-    </td>
-    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; text-align: center; background: #f6f8fa; height: 200px;">
-      <div style="display: inline-block; text-align: left;">
-        <h3 style="margin-top: 0; text-align: center;">🚀 I Enjoy</h3>
-        <ul style="padding-left: 20px; margin-top: 10px; margin-bottom: 0;">
-          <li>Analyzing complex problems</li>
-          <li>Improving workflows</li>
-          <li>Contributing to team goals</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; text-align: center; background: #ffffff; height: 200px;">
-      <div style="display: inline-block; text-align: left;">
-        <h3 style="margin-top: 0; text-align: center;">🔍 Currently Learning</h3>
-        <ul style="padding-left: 20px; margin-top: 10px; margin-bottom: 0;">
-          <li>Data Science</li>
-          <li>Frontend</li>
-          <li>Backend</li>
-        </ul>
-      </div>
-    </td>
-    <td style="border: 1px solid #e1e4e8; padding: 15px; vertical-align: top; text-align: center; background: #ffffff; height: 200px;">
-      <div style="display: inline-block; text-align: center; max-width: 80%;">
-        <h3 style="margin-top: 0;">✨ My Goal</h3>
-        <p style="margin-top: 10px; margin-bottom: 0;">To grow in an environment that values clean code, collaboration, and continuous learning.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <pre style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; font-family: monospace; color: #c9d1d9; line-height: 1.6; text-align: left; max-width: 600px; margin: 0 auto; display: inline-block;">
+<b>USER</b>       : Lady Luz Loayza Rodriguez (U22221489)
+<b>ACADEMIC</b>   : Software Engineering Student @ UTP
+<b>SPECIALTY</b>  : Data Engineering & Business Intelligence
+<b>LOCATION</b>   : Lima, Peru
+<b>UPTIME</b>     : 4 Years (Active Learning & Development)
+<b>TECH STACK</b> : Python | SQL | PostgreSQL | Power BI
+<b>SHELL</b>      : bash (Pandas | SQLAlchemy | psycopg2 | openpyxl)
+<b>CONTACT</b>    : <a href="mailto:U22221489@utp.edu.pe" style="color: #58a6ff; text-decoration: none;">U22221489@utp.edu.pe</a>
+<b>LINKEDIN</b>   : <a href="https://linkedin.com/in/lady-loayza-rodriguez" target="_blank" style="color: #58a6ff; text-decoration: none;">linkedin.com/in/lady-loayza-rodriguez</a>
+  </pre>
 </div>
 
 
-## 📊 GitHub Stats  
-<table style="width:100%; border-collapse: collapse; table-layout: fixed;">
-  <tr>
-    <!-- Columna Izquierda -->
-    <td style="width:50%; vertical-align: top; padding: 5px;">
-      <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px; background-color: #f6f8fa; margin-bottom: 10px; height: 195px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api?username=luzylay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" style="width: 100%; height: 100%; object-fit: contain;">
-      </div>
-      <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px; background-color: #f6f8fa; height: 410px; overflow: hidden;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=luzylay&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%; height: 100%; object-fit: contain;">
-      </div>
-    </td>
-    <!-- Columna Derecha -->
-    <td style="width:50%; vertical-align: top; padding: 5px;">
-      <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 10px; background-color: #f6f8fa; height: 195px; overflow: hidden;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzylay&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; height: 100%; object-fit: contain;">
-      </div>
-    </td>
-  </tr>
-</table>
 
-## 🌈 Contribution Graph  
-<div style="width:100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; background-color: #f6f8fa; text-align: center; margin-top: 20px;">
+### 📊 GitHub Stats & Streaks
 
-### My Coding Activity  
-<img width="100%" src="https://raw.githubusercontent.com/luzylay/luzylay/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions">
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=luzylay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luzylay&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luzylay&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+</p>
 
----
 
-<div>
+### 🌈 3D Contribution Graph
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=luzylay.luzylay)](https://github.com/luzylay)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luzylay/luzylay/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
+</p>
 
+
+
+<div align="center">
+  <br />
+  <a href="https://github.com/luzylay">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=luzylay.luzylay&left_color=gray&right_color=purple" alt="Visitors" />
+  </a>
 </div>
