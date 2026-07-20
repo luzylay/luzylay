@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student+%40UTP;Data+Engineer+%26+BI+Specialist;Building+Scalable+ETL+Pipelines" alt="Typing SVG" />
 </p>
 
-<div align="center">
+<div align="left">
   <pre style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px; font-family: monospace; color: #c9d1d9; line-height: 1.6; text-align: left; max-width: 600px; margin: 0 auto; display: inline-block;">
 <b>USER</b>       : Lady Luz Loayza Rodriguez (U22221489)
 <b>ACADEMIC</b>   : Software Engineering Student @ UTP
