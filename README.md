@@ -9,8 +9,6 @@ I am a **Software Engineering Student** specializing in **Data Engineering & Bus
 *   🌱 **Currently Exploring:** Cloud Data Warehousing (AWS/GCP), Apache Airflow, and dbt (data build tool).
 *   ⚡ **Core Philosophy:** Automation-first, clean code, and robust error handling in data integration processes.
 
----
-
 *GitHub's native language stats are great, but here is the specific toolkit I leverage daily to build data solutions:*
 
 | Category | Technologies & Tools Stack|
@@ -20,8 +18,6 @@ I am a **Software Engineering Student** specializing in **Data Engineering & Bus
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
 | **BI & Analytics** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-107C41?style=flat&logo=microsoft-excel&logoColor=white) |
 | **DevOps & Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
-
----
 
 ## 🧠 Data Engineering Principles I Apply
 *Beyond coding, these are the methodologies and best practices I implement in my repositories:*
