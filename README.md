@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student+%40UTP;Data+Engineer+%26+BI+Specialist;Building+Scalable+ETL+Pipelines" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
 I am a **Software Engineering Student** specializing in **Data Engineering & Business Intelligence**. I focus on designing efficient, scalable data pipelines (ETL/ELT), dimensional modeling, and turning raw datasets into structured, high-value business assets.
 
 *   🌱 **Currently Exploring:** Cloud Data Warehousing (AWS/GCP), Apache Airflow, and dbt (data build tool).
@@ -12,10 +11,9 @@ I am a **Software Engineering Student** specializing in **Data Engineering & Bus
 
 ---
 
-## 🛠️ Categorized Tech Stack
 *GitHub's native language stats are great, but here is the specific toolkit I leverage daily to build data solutions:*
 
-| Category | Technologies & Tools |
+| Category | Technologies & Tools Stack|
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-CC2927?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
 | **Data Engineering** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) ![psycopg2](https://img.shields.io/badge/psycopg2-336791?style=flat&logo=postgresql&logoColor=white) |
