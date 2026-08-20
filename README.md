@@ -1,5 +1,3 @@
-# 💻 Lady Loayza Rodriguez
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student+%40UTP;Data+Engineer+%26+BI+Specialist;Building+Scalable+ETL+Pipelines" alt="Typing SVG" />
 </p>
