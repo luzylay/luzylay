@@ -32,11 +32,11 @@ I am a **Software Engineering Student** specializing in **Data Engineering & Bus
 <div align="center">
   <img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Detailed Activity Stats" width="100%" />
   <br/>
-  <img src="profile-summary-card-output/radical/3-stats.svg" alt="GitHub General Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luzylay&theme=radical&hide_border=true" alt="GitHub Streak" height="195" />
+  <img src="profile-summary-card-output/radical/3-stats.svg" alt="GitHub General Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luzylay&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   <br/>
-  <img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos Per Language" height="195" />
-  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commits Language" height="195" />
+  <img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos Per Language" width="48%" />
+  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commits Language" width="48%" />
 </div>
 
 ### 🌈 3D Contribution Graph
