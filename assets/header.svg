@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 220" width="1600" height="220">
+    <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#4776E6">
+                <animate attributeName="stop-color" values="#4776E6; #8E54E9; #4776E6" dur="8s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#8E54E9">
+                <animate attributeName="stop-color" values="#8E54E9; #4776E6; #8E54E9" dur="8s" repeatCount="indefinite" />
+            </stop>
+        </linearGradient>
+        
+        <clipPath id="clip-1">
+            <rect x="605" y="0" width="0" height="220">
+                <animate attributeName="width" values="0; 400; 400; 0; 0" keyTimes="0; 0.083; 0.22; 0.25; 1" dur="12s" repeatCount="indefinite" />
+            </rect>
+        </clipPath>
+        <clipPath id="clip-2">
+            <rect x="443" y="0" width="0" height="220">
+                <animate attributeName="width" values="0; 0; 730; 730; 0; 0" keyTimes="0; 0.25; 0.333; 0.47; 0.5; 1" dur="12s" repeatCount="indefinite" />
+            </rect>
+        </clipPath>
+        <clipPath id="clip-3">
+            <rect x="486" y="0" width="0" height="220">
+                <animate attributeName="width" values="0; 0; 640; 640; 0; 0" keyTimes="0; 0.5; 0.583; 0.72; 0.75; 1" dur="12s" repeatCount="indefinite" />
+            </rect>
+        </clipPath>
+        <clipPath id="clip-4">
+            <rect x="465" y="0" width="0" height="220">
+                <animate attributeName="width" values="0; 0; 685; 685; 0" keyTimes="0; 0.75; 0.833; 0.97; 1" dur="12s" repeatCount="indefinite" />
+            </rect>
+        </clipPath>
+    </defs>
+    
+    <!-- Fondo -->
+    <rect x="0" y="0" width="1600" height="220" fill="url(#bg)" />
+    
+    <!-- Olas decorativas animadas -->
+    <path fill="#ffffff" opacity="0.1">
+        <animate attributeName="d" dur="10s" repeatCount="indefinite"
+            values="M0,130 C400,220 800,60 1600,160 L1600,220 L0,220 Z;
+                    M0,160 C400,60 800,220 1600,130 L1600,220 L0,220 Z;
+                    M0,130 C400,220 800,60 1600,160 L1600,220 L0,220 Z" />
+    </path>
+    <path fill="#ffffff" opacity="0.15">
+        <animate attributeName="d" dur="14s" repeatCount="indefinite"
+            values="M0,170 C533,240 1066,90 1600,180 L1600,220 L0,220 Z;
+                    M0,180 C533,90 1066,240 1600,170 L1600,220 L0,220 Z;
+                    M0,170 C533,240 1066,90 1600,180 L1600,220 L0,220 Z" />
+    </path>
+
+    <!-- Textos y Cursores -->
+    <g font-family="'Fira Code', monospace, sans-serif" font-size="36" fill="#ffffff" font-weight="bold">
+        <!-- Frase 1 -->
+        <text x="605" y="115" text-anchor="start" dominant-baseline="middle" clip-path="url(#clip-1)">Hi, I'm Luzylay 👋
+            <animate attributeName="opacity" values="1;1;0;0" keyTimes="0; 0.25; 0.251; 1" dur="12s" repeatCount="indefinite"/>
+        </text>
+        <rect y="95" width="4" height="36" fill="#ffffff" visibility="visible">
+            <animate attributeName="x" values="605; 1005; 1005; 605; 605" keyTimes="0; 0.083; 0.22; 0.25; 1" dur="12s" repeatCount="indefinite" />
+            <animate attributeName="visibility" values="visible; hidden; hidden" keyTimes="0; 0.25; 1" calcMode="discrete" dur="12s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+        </rect>
+
+        <!-- Frase 2 -->
+        <text x="443" y="115" text-anchor="start" dominant-baseline="middle" clip-path="url(#clip-2)" opacity="0">Software Engineering Student @UTP
+            <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0; 0.249; 0.25; 0.5; 0.501; 1" dur="12s" repeatCount="indefinite"/>
+        </text>
+        <rect y="95" width="4" height="36" fill="#ffffff" visibility="hidden">
+            <animate attributeName="x" values="443; 443; 1173; 1173; 443; 443" keyTimes="0; 0.25; 0.333; 0.47; 0.5; 1" dur="12s" repeatCount="indefinite" />
+            <animate attributeName="visibility" values="hidden; visible; hidden; hidden" keyTimes="0; 0.25; 0.5; 1" calcMode="discrete" dur="12s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+        </rect>
+
+        <!-- Frase 3 -->
+        <text x="486" y="115" text-anchor="start" dominant-baseline="middle" clip-path="url(#clip-3)" opacity="0">Data Engineer &amp; BI Specialist
+            <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0; 0.499; 0.5; 0.75; 0.751; 1" dur="12s" repeatCount="indefinite"/>
+        </text>
+        <rect y="95" width="4" height="36" fill="#ffffff" visibility="hidden">
+            <animate attributeName="x" values="486; 486; 1126; 1126; 486; 486" keyTimes="0; 0.5; 0.583; 0.72; 0.75; 1" dur="12s" repeatCount="indefinite" />
+            <animate attributeName="visibility" values="hidden; visible; hidden; hidden" keyTimes="0; 0.5; 0.75; 1" calcMode="discrete" dur="12s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+        </rect>
+
+        <!-- Frase 4 -->
+        <text x="465" y="115" text-anchor="start" dominant-baseline="middle" clip-path="url(#clip-4)" opacity="0">Building Scalable ETL Pipelines
+            <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0; 0.749; 0.75; 0.999; 1" dur="12s" repeatCount="indefinite"/>
+        </text>
+        <rect y="95" width="4" height="36" fill="#ffffff" visibility="hidden">
+            <animate attributeName="x" values="465; 465; 1150; 1150; 465" keyTimes="0; 0.75; 0.833; 0.97; 1" dur="12s" repeatCount="indefinite" />
+            <animate attributeName="visibility" values="hidden; visible; visible" keyTimes="0; 0.75; 1" calcMode="discrete" dur="12s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+        </rect>
+    </g>
+</svg>

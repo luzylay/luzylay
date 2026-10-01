@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student+%40UTP;Data+Engineer+%26+BI+Specialist;Building+Scalable+ETL+Pipelines" alt="Typing SVG" />
+  <img src="assets/header.svg" alt="Header" width="100%" />
 </p>
 
 I am a **Software Engineering Student** specializing in **Data Engineering & Business Intelligence**. I focus on designing efficient, scalable data pipelines (ETL/ELT), dimensional modeling, and turning raw datasets into structured, high-value business assets.
@@ -29,30 +29,17 @@ I am a **Software Engineering Student** specializing in **Data Engineering & Bus
 ### 📊 GitHub Activity & Detailed Stats
 *My contribution records, commits, pull requests, reviews, and active streaks:*
 
-<p align="center">
-  <img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Detailed Activity Stats" width="98%" />
-</p>
-
-<p align="center">
-  <img src="profile-summary-card-output/stats.svg" alt="GitHub General Stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luzylay&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="profile-summary-card-output/top-langs.svg" alt="Top Languages" width="60%" />
-</p>
+<div align="center">
+  <img src="profile-summary-card-output/radical/0-profile-details.svg" alt="Detailed Activity Stats" width="100%" />
+  <br/>
+  <img src="profile-summary-card-output/radical/3-stats.svg" alt="GitHub General Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luzylay&theme=radical&hide_border=true" alt="GitHub Streak" height="195" />
+  <br/>
+  <img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos Per Language" height="195" />
+  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commits Language" height="195" />
+</div>
 
 ### 🌈 3D Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/luzylay/luzylay/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
 </p>
-
-<div align="center">
-  <br />
-  <a href="https://github.com/luzylay">
-    <img src="https://komarev.com/ghpvc/?username=luzylay&label=Profile+Views&color=a855f7&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/luzylay.svg?logo=github&style=for-the-badge&label=Followers&logoColor=white&color=a855f7&labelColor=0d1117" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/luzylay?style=for-the-badge&logo=github&label=Stars&color=a855f7&labelColor=0d1117" alt="Stars" />
-  </a>
-</div>
