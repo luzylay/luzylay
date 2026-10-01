@@ -51,6 +51,8 @@ I am a **Software Engineering Student** specializing in **Data Engineering & Bus
 <div align="center">
   <br />
   <a href="https://github.com/luzylay">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=luzylay.luzylay&left_color=gray&right_color=purple" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=bribes&label=Profile+Views&color=a855f7&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/bribes.svg?logo=github&style=for-the-badge&label=Followers&logoColor=white&color=a855f7&labelColor=0d1117" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/bribes?style=for-the-badge&logo=github&label=Stars&color=a855f7&labelColor=0d1117" alt="Stars" />
   </a>
 </div>
